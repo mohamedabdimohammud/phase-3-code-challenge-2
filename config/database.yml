@@ -1,0 +1,26 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  database: Product Review
+  pool: 5
+  username: Mohamed A.
+  password: 12345
+  host: localhost
+
+test:
+  adapter: mysql2
+  encoding: utf8
+  database: Product Review
+  pool: 5
+  username: Mohamed A.
+  password: 12345
+  host: localhost
+
+production:
+  adapter: mysql2
+  encoding: utf8
+  database: Product Review
+  pool: 5
+  username: Mohamed A.
+  password: 12345
+  host: localhost
